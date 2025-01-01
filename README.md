@@ -1,2 +1,19 @@
-# python-calculator
- This Python-based command-line calculator offers a simple yet powerful tool for performing basic arithmetic operations, including addition, subtraction, multiplication, division, floor division, exponentiation, and modulo. With a focus on user-friendly interaction, it features intuitive input prompts, robust error handling for invalid inputs, and the flexibility to handle multiple calculations within a single session. Whether you're crunching numbers for a project or learning Python basics, this program makes arithmetic operations both accessible and enjoyable.
+# Command-Line Calculator
+A simple Python-based calculator that supports basic arithmetic operations:
+- Addition (`+`)
+- Subtraction (`-`)
+- Multiplication (`*`)
+- Division (`/`)
+- Floor Division (`//`)
+- Exponentiation (`**`)
+- Modulo (`%`)
+
+## Features
+- User-friendly input prompts
+- Error handling for invalid inputs and division by zero
+- Ability to perform multiple calculations in one session
+
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/command-line-calculator.git
