@@ -17,17 +17,17 @@ A simple Python-based calculator that supports basic arithmetic operations:
 1. Clone the repository:
    ```bash
    git clone https://github.com/SaurabhSSB/python-calculator.git
-   ```
-2.Navigate to the directory:
+   
+2. Navigate to the directory:
    ```bash
    cd command-line-calculator
-   ```
-3.Run the script:
+   
+3. Run the script:
    ```bash
    python calculator.py
-   ```
+   
 
-4.Follow the on-screen instructions.
+4. Follow the on-screen instructions.
 
 
 
