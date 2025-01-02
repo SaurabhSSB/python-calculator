@@ -18,22 +18,16 @@ A simple Python-based calculator that supports basic arithmetic operations:
    ```bash
    git clone https://github.com/SaurabhSSB/python-calculator.git
 
-Navigate to the directory:
-cd command-line-calculator
+2.Navigate to the directory:
+   ```bash
+   cd command-line-calculator
+   ```
+3.Run the script:
+   ```bash
+   python calculator.py
+   ```
 
-Run the script:
-python calculator.py
+4.Follow the on-screen instructions.
 
-Follow the on-screen instructions.
 
-**Example Output**
 
-Enter the first number: 5
-Enter the second number: 3
-Enter the operation (+, -, *, /, //, **, %): +
-The result of + is: 8
-Do you want to perform another calculation? (Y/N) N
-Exiting calculator.
-
-License
-MIT License
